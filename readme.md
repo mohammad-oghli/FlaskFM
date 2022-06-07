@@ -14,7 +14,7 @@ Now you have to initialize the database using the ***predefined model** and then
 
 ![](songs-schema.png)
 
-After running `add_data.py` flask webservice database is ready. feel free to add any data you want on the database to test the service.
+After running `add_data.py` flask webservice database is ready. feel free to add any data you want to the database to test the service.
 
 You need to set `FLASK_APP` environment variable to load the webservice:
 
