@@ -42,7 +42,7 @@ The main functionalities of webservice:
 * Add new song to user playlist.
 * Delete song from user playlist.
 * Add new song to the library using admin dashboard.
-* Sort songs according to its popularity (number of users added the song to their library) on the admin dashboard. 
+* Sort songs according to its popularity (number of users added the song to their playlist) on the admin dashboard. 
 
 **Made with ❤ by Mohamad Oghli**
 
