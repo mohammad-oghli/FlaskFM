@@ -26,7 +26,7 @@ Or run Powershell command:
 
 `$env:FLASK_APP = "app"`
 
-You can run flask app on your local host by executing this command on your terminal:
+You can run flask webservice on your local host by executing this command on your terminal:
 
 `flask run`
 
