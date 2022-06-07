@@ -7,7 +7,7 @@ To install dependencies run this command on your terminal:
 
 Now you have to initialize the database using the ***predefined model** and then add demo data, to achieve that you should run `add_data.py` script on terminal:
 
-`python3 add_data.py`
+`python add_data.py`
 
 * You can check database schema that we will create on the image `songs-shcema`.
 
